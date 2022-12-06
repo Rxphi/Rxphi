@@ -5,15 +5,11 @@
 </h1>
 </div>
 <div id="description" align="center">
-  <li>✏️ I'm a CS student at the ETH Zurich</li>
-  <br>
-  <li>🔭 I’m currently grinding the legendary Advent of Code</li>
-  <br>
-  <li>🌱 I’m currently learning Java</li>
-  <br>
-  <li>😊 Full name: Raphaël Larisch</li>
-  <br>
-  <li>👶 Birthdate: 24.04.2004</li>
+  <h3><li>✏️ I'm a CS student at the ETH Zurich</li></h3>
+  <h3><li>🔭 I’m currently grinding the legendary Advent of Code</li></h3>
+  <h3><li>🌱 I’m currently learning Java</li></h3>
+  <h3><li>😊 Full name: Raphaël Larisch</li></h3>
+  <h3><li>👶 Birthdate: 24.04.2004</li></h3>
 </div>
 <br>
 <div id="socials" align="center">
