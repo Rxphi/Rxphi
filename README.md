@@ -10,10 +10,13 @@
   <a href="https://twitter.com/Raphi86918638" title="Twitter Logo"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="80" alt="twitter bird symbols png logo" /></a>
   
   <a href="https://www.linkedin.com/in/rapha%C3%ABl-larisch-26a326232/" title="LinkedIn Logo"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-16.png" width="150" alt="linkedin logo transparent png" /></a>
-  
 </div>
-  
-
+<div id="description" align="center">
+  🔭 I’m currently grinding the legendary Advent of Code
+  </br>
+  🌱 I’m currently learning Java
+  </br>
+</div>
 <!--
 **Rxphi/Rxphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
