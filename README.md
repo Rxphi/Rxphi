@@ -4,8 +4,10 @@
   Hi, I'm Raphi and I welcome you here!
 </h1>
 </div>
+<br>
 <div id="description" align="center">
-  <h3><li>✏️ I'm a CS student at <a href="https://ethz.ch/en.html">ETH Zurich</a></li></h3>
+  <h3>About me</h3>
+  <h3><li>✏️ CS student at <a href="https://ethz.ch/en.html">ETH Zurich</a></li></h3>
   <h3><li>🔭 I’m currently grinding the legendary <a href="https://adventofcode.com/">Advent of Code</a></li></h3>
   <h3><li>🌱 I’m currently learning Java</li></h3>
   <h3><li>🌐 Check out <a href="https://n.ethz.ch/~rlarisch/">my personal website</a></li></h3>
@@ -14,6 +16,7 @@
 </div>
 <br>
 <div id="socials" align="center">
+  <h3>Socials</h3>
   <a href="https://www.youtube.com/channel/UCC7nPg6Bc7QXFkntMi1tBgw" title="Youtube logo"><img src="https://www.freepnglogos.com/uploads/youtube-logo-icon-transparent---32.png" width="100" alt="youtube logo icon transparent " /></a>
 
   <a href="https://twitter.com/Raphi86918638" title="Twitter Logo"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="80" alt="twitter bird symbols png logo" /></a>
