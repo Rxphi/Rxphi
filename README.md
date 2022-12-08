@@ -4,7 +4,9 @@
   Hi, I'm Raphi and I welcome you here!
 </h1>
 </div>
+
 <br>
+
 <div id="description" align="center">
   <h3>About me</h3>
   <h3><li>✏️ CS student at <a href="https://ethz.ch/en.html">ETH Zurich</a></li></h3>
@@ -14,7 +16,9 @@
   <h3><li>😊 Full name: Raphaël Larisch</li></h3>
   <h3><li>👶 Birthdate: 24 April 2004 (18 y/o)</li></h3>
 </div>
+
 <br>
+
 <div id="socials" align="center">
   <h3>Socials</h3>
   <a href="https://www.youtube.com/channel/UCC7nPg6Bc7QXFkntMi1tBgw" title="Youtube logo"><img src="https://www.freepnglogos.com/uploads/youtube-logo-icon-transparent---32.png" width="100" alt="youtube logo icon transparent " /></a>
@@ -22,6 +26,18 @@
   <a href="https://twitter.com/Raphi86918638" title="Twitter Logo"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="80" alt="twitter bird symbols png logo" /></a>
   
   <a href="https://www.linkedin.com/in/rapha%C3%ABl-larisch-26a326232/" title="LinkedIn Logo"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-16.png" width="150" alt="linkedin logo transparent png" /></a>
+</div>
+
+<br>
+
+<div id="tools" align="center">
+  <h3>Tools</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
 
 <!--
