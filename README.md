@@ -40,6 +40,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
 
+<br>
+
+<div id="stats" align="center">
+  <h3>Stats</h3>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Rxphi&theme=midnight-purple&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D"/></a>
+
+</div>
+
 <!--
 **Rxphi/Rxphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
