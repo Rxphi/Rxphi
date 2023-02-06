@@ -10,7 +10,7 @@
 <div id="description" align="center">
   <h3>About me</h3>
   <h3><li>✏️ CS student at <a href="https://ethz.ch/en.html">ETH Zurich</a></li></h3>
-  <h3><li>🔭 I’m currently grinding the legendary <a href="https://adventofcode.com/">Advent of Code</a></li></h3>
+  <!--<h3><li>🔭 I’m currently grinding the legendary <a href="https://adventofcode.com/">Advent of Code</a></li></h3>-->
   <h3><li>🌱 I’m currently learning Java</li></h3>
   <h3><li>🌐 Check out <a href="https://n.ethz.ch/~rlarisch/">my personal website</a></li></h3>
   <h3><li>😊 Full name: Raphaël Larisch</li></h3>
